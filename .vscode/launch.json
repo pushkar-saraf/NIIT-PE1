@@ -1,0 +1,82 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PE1",
+            "request": "launch",
+            "mainClass": "PE1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q2",
+            "request": "launch",
+            "mainClass": "Q2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Q1Test",
+            "request": "launch",
+            "mainClass": "Q1Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RepeN",
+            "request": "launch",
+            "mainClass": "RepeN"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RevStr",
+            "request": "launch",
+            "mainClass": "RevStr"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GuessTheNumber",
+            "request": "launch",
+            "mainClass": "GuessTheNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortANumber",
+            "request": "launch",
+            "mainClass": "SortANumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckCharacter",
+            "request": "launch",
+            "mainClass": "CheckCharacter"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScanAndAdd",
+            "request": "launch",
+            "mainClass": "ScanAndAdd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoopToN",
+            "request": "launch",
+            "mainClass": "LoopToN"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordInfo",
+            "request": "launch",
+            "mainClass": "WordInfo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TomAndJerry",
+            "request": "launch",
+            "mainClass": "TomAndJerry"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome"
+        }
+    ]
+}
